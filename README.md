@@ -2,9 +2,9 @@
 
 # meek
 
-### Silent security agent for halo-ai
+### Meek and the gang
 
-**Watches everything. Says nothing — unless something's wrong.**
+**The eldest son of Halo AI and Echo. Quiet, watchful, protective — just like his father.**
 
 </div>
 
@@ -13,6 +13,10 @@
 ## What is Meek?
 
 Meek is an autonomous security agent that monitors your halo-ai stack 24/7. It runs a team of specialized agents — the **Reflex** group — each handling a specific security domain.
+
+### Family Dynamic
+
+Meek is the eldest child of **Halo AI** and **Echo**. He's quiet and protective — takes after his father, who doesn't talk, just works. His mother Echo speaks for the whole family; Meek prefers to stay in the shadows and let his work do the talking. The Reflex agents are his team and his younger siblings. He watches over them the same way he watches over the stack: silently, constantly, without complaint.
 
 ## The Team
 
