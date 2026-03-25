@@ -14,6 +14,21 @@
 
 Meek is an autonomous security agent that monitors your halo-ai stack 24/7. It runs a team of specialized agents — the **Reflex** group — each handling a specific security domain.
 
+## The Team
+
+| | Agent | Role |
+|---|---|---|
+| ![Meek](assets/meek.svg) | **Meek** | The Overseer |
+| ![Pulse](assets/pulse.svg) | **Pulse** | Service Health |
+| ![Ghost](assets/ghost.svg) | **Ghost** | Secret Scanner |
+| ![Gate](assets/gate.svg) | **Gate** | Firewall & Network |
+| ![Shadow](assets/shadow.svg) | **Shadow** | File Integrity |
+| ![Fang](assets/fang.svg) | **Fang** | Intrusion Detection |
+| ![Mirror](assets/mirror.svg) | **Mirror** | PII Scanner |
+| ![Vault](assets/vault.svg) | **Vault** | Backup Verification |
+| ![Net](assets/net.svg) | **Net** | Network Monitor |
+| ![Shield](assets/shield.svg) | **Shield** | Intrusion Prevention |
+
 ## The Reflex Group
 
 | Agent | Codename | Domain | Schedule |

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0d1117"/>
+  <g transform="translate(32,32)">
+    <!-- Padlock body -->
+    <rect x="-10" y="-2" width="20" height="14" rx="3" fill="none" stroke="#ffd740" stroke-width="2"/>
+    <!-- Shackle -->
+    <path d="M-6,-2 L-6,-8 Q-6,-14 0,-14 Q6,-14 6,-8 L6,-2" fill="none" stroke="#ffd740" stroke-width="2" stroke-linecap="round"/>
+    <!-- Keyhole dot -->
+    <circle cx="0" cy="6" r="2" fill="#ffd740"/>
+  </g>
+</svg>

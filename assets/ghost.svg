@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0d1117"/>
+  <g transform="translate(32,32)">
+    <!-- Keyhole: circle top + triangle bottom -->
+    <circle cx="0" cy="-5" r="7" fill="none" stroke="#b388ff" stroke-width="2"/>
+    <path d="M-4,-2 L0,12 L4,-2" fill="none" stroke="#b388ff" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+</svg>
