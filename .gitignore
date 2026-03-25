@@ -1,1 +1,17 @@
 __pycache__/
+*.pyc
+*.pyo
+
+# Environment & secrets
+.env
+*.key
+*.pem
+
+# Runtime data
+reports/
+data/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
