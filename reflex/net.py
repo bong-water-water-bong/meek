@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 
 from reflex.base import ReflexAgent
 
-ROUTER_IP = "xxx.xxx.xxx.1"
+ROUTER_IP = os.environ.get("HALO_ROUTER_IP", "xxx.xxx.xxx.1")
 ROUTER_SSH_PORT = 22
 PING_TARGETS = ("1.1.1.1", "8.8.8.8")
 DNS_TEST_HOST = "google.com"

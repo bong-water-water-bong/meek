@@ -19,7 +19,7 @@ from datetime import datetime, timezone
 
 from reflex.base import ReflexAgent
 
-ROUTER_IP = "xxx.xxx.xxx.1"
+ROUTER_IP = os.environ.get("HALO_ROUTER_IP", "xxx.xxx.xxx.1")
 GATEWAY_MAC_PATH = "/srv/ai/meek/gateway-mac.json"
 OUTBOUND_WHITELIST_PATH = "/srv/ai/meek/outbound-whitelist.json"
 CADDY_HOST = "localhost"

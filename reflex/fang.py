@@ -16,7 +16,7 @@ import time
 from reflex.base import ReflexAgent
 
 # IPs considered part of the trusted LAN.
-_LAN_PREFIXES = ("192.168.50.", "10.100.0.")
+_LAN_PREFIXES = (os.environ.get("HALO_LAN_PREFIX", "192.168.1."), "10.100.0.")
 
 # Known crypto-miner process patterns.
 _MINER_PATTERNS = re.compile(
