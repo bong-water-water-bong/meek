@@ -1,0 +1,10 @@
+[Unit]
+Description=Meek security agent - full scan
+
+[Service]
+Type=oneshot
+User=root
+ExecStart=/usr/bin/python3 /srv/ai/meek/meek.py scan --quiet
+ProtectSystem=full
+PrivateTmp=yes
+NoNewPrivileges=yes
