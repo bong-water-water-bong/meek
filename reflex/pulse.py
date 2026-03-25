@@ -141,8 +141,35 @@ class PulseAgent(ReflexAgent):
 
     # ------------------------------------------------------------------ scan
 
+    # Known bcrypt hash of the default password "Caddy"
+    DEFAULT_CADDY_HASH = "$2a$14$hyBjre0RT3lbdTzAtACFRuhlYeFAx4xsxVsk0IR2RkDy3KVJIi2Nq"
+    CADDYFILE_PATH = "/srv/ai/configs/Caddyfile"
+
+    def _check_default_caddy_password(self):
+        """Return True if the Caddyfile still contains the default password hash."""
+        try:
+            with open(self.CADDYFILE_PATH, "r") as fh:
+                return self.DEFAULT_CADDY_HASH in fh.read()
+        except (OSError, IOError):
+            return False
+
     def scan(self) -> dict:
         findings = []
+
+        # --- CRITICAL: default Caddy password check ---
+        if self._check_default_caddy_password():
+            findings.append({
+                "id": "pulse:security:default-caddy-password",
+                "severity": "CRITICAL",
+                "title": "Default Caddy password in use — run halo-change-password.sh immediately",
+                "detail": (
+                    f"The Caddyfile at {self.CADDYFILE_PATH} still contains the "
+                    "default bcrypt hash for password 'Caddy'. All web services are "
+                    "accessible with a publicly known password. Run "
+                    "/srv/ai/scripts/halo-change-password.sh to set a secure password."
+                ),
+                "fixable": False,
+            })
 
         # --- systemd halo-* services ---
         for unit, info in SERVICES.items():

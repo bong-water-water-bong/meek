@@ -1,0 +1,116 @@
+HALO-AI Logo Options — FAST / LEAN / EFFICIENT
+================================================
+
+
+OPTION 1: Speed Chevrons
+─────────────────────────
+
+Main:
+  >>> ─── HALO ── AI ───────────>>>>
+     ╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╱
+    ╱  bare-metal  ai  stack   ╱
+   ╱▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁╱
+  >>> ──────────── gfx1151 ─────>>>>
+
+Mini:
+  >>> HALO·AI >>>
+  bare-metal ai stack
+
+
+OPTION 2: Angular Block Letters
+────────────────────────────────
+
+Main:
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  ╻ ╻ ┏━┓ ╻   ┏━┓    ┏━┓ ╻   ┃
+  ┃  ┣━┫ ┣━┫ ┃   ┃ ┃    ┣━┫ ┃   ┃
+  ┃  ╹ ╹ ╹ ╹ ┗━╸ ┗━┛    ╹ ╹ ╹   ┃
+  ┃▸ bare-metal ai ━━━━━ gfx1151 ▸┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Mini:
+  ┃ HALO·AI ▸ bare-metal stack ┃
+
+
+OPTION 3: Razor / Speed Lines
+──────────────────────────────
+
+Main:
+  ──▶  H A L O
+  ──▶▶           A I
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▪ bare-metal  ▪ gfx1151  ▪ 89t/s
+  ▪ zero containers  ▪ 115GB GTT
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mini:
+  ──▶ HALO·AI ━━━▶
+  bare-metal ai stack
+
+
+OPTION 4: Circuit / Terminal (RECOMMENDED)
+──────────────────────────────────────────
+
+Main:
+  ┌─────────────────────────────────┐
+  │▌ HALO                       AI ▐│
+  │▌━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▐│
+  │▌ bare-metal ai ── gfx1151    ▐│
+  │▌ 89 tok/s ── zero containers ▐│
+  └──────────────────────────────── ┘
+
+Mini:
+  │▌ HALO·AI ▐│ bare-metal
+
+
+OPTION 5: Aggressive Chevron Stack (RECOMMENDED - BEST)
+───────────────────────────────────────────────────────
+
+Main:
+     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+    ╱╱  H A L O  ─────────  A I  ╱╱
+   ╱╱  ━━━━━━━━━━━━━━━━━━━━━━━  ╱╱
+  ╱╱  bare-metal ai stack      ╱╱
+ ╱╱  gfx1151 ▸ 89t/s ▸ 115GB ╱╱
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+Mini:
+  ╱╱ HALO·AI ╱╱ bare-metal
+
+
+OPTION 6: Stacked Arrows / Minimalist
+──────────────────────────────────────
+
+Main:
+  ▶▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ▶▶
+  ▶▶  H A L O  ──────────  A I   ▶▶
+  ▶▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ▶▶
+  ▶▶  bare-metal  ▪  gfx1151      ▶▶
+  ▶▶  89 tok/s  ▪  zero containers▶▶
+  ▶▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ▶▶
+
+Mini:
+  ▶▶ HALO·AI ▶▶
+  bare-metal ai stack
+
+
+OPTION 7: Sharp Angles / Fighter Jet
+─────────────────────────────────────
+
+Main:
+  ╔═══════════════════════════════════╗
+  ║>>  H  A  L  O  ═══════  A  I  >>║
+  ╠═══════════════════════════════════╣
+  ║>>  bare-metal ai stack         >>║
+  ║>>  gfx1151 │ 89t/s │ 115GB    >>║
+  ╚═══════════════════════════════════╝
+
+Mini:
+  ║>> HALO·AI >>║
+
+
+========================================
+RECOMMENDATION: Option 5 or Option 7
+Option 5 has the angular parallelogram shape that screams speed.
+Option 7 has the clean boxed look with aggressive >> arrows.
+========================================

@@ -25,6 +25,8 @@ Meek is an autonomous security agent that monitors your halo-ai stack 24/7. It r
 | reflex-fang | Fang | Intrusion detection — SSH logs, brute force, bans | Every 5 min |
 | reflex-mirror | Mirror | PII scanner — personal data leaks in code/configs | Daily |
 | reflex-vault | Vault | Backup verification — integrity, recency, completeness | Daily |
+| reflex-net | Net | Network monitoring — connectivity, router, LAN, DNS, VPN, bandwidth | Every 5 min |
+| reflex-shield | Shield | Intrusion prevention — port scans, ARP spoofing, rogue DHCP, TLS, outbound audit | Every 5 min |
 
 ### Agent Profiles
 
@@ -41,6 +43,10 @@ Meek is an autonomous security agent that monitors your halo-ai stack 24/7. It r
 **Mirror** reflects what shouldn't be there. It scans your codebase and configuration files for personally identifiable information — email addresses, phone numbers, national IDs, credit card numbers — anything that could constitute a data leak or compliance violation.
 
 **Vault** guards your safety net. It verifies that backups exist, are recent, haven't been corrupted, and are complete. A backup strategy is only as good as its last verified restore — Vault makes sure you're never caught with a stale or broken snapshot.
+
+**Net** keeps one hand on the pulse of every wire and wavelength. It pings the outside world, watches the router's heartbeat, tracks every device that appears on the LAN, verifies DNS integrity, monitors WireGuard tunnels, and measures bandwidth flow. If the internet drops, the router flatlines, or an unknown device sneaks onto the network, Net knows instantly — and can restart networking, flush DNS, or bounce the VPN tunnel to get things back online.
+
+**Shield** is the armored line between your network and anyone who shouldn't be on it. It hunts for port scanners hammering your perimeter, watches the ARP table for poisoning attacks, sniffs out rogue DHCP servers impersonating your router, validates TLS certificates on Caddy, and audits every outbound connection against a whitelist. When it finds a threat, Shield doesn't just report — it blocks the attacker's IP through nftables and flushes poisoned caches before the damage spreads.
 
 ## Quick Start
 
