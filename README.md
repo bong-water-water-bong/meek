@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/meek-portrait.png" width="280" alt="meek ai"/>
+
 # meek
 
-### Meek and the gang
+### meek and the gang
 
-**The eldest son of Halo AI and Echo. Quiet, watchful, protective — just like his father.**
+**the eldest son of halo ai and echo. quiet, watchful, protective — just like his father.**
 
 </div>
 
@@ -22,16 +24,16 @@ Meek is the eldest child of **Halo AI** and **Echo**. He's quiet and protective 
 
 | | Agent | Role |
 |---|---|---|
-| ![Meek](assets/meek.svg) | **Meek** | The Overseer |
-| ![Pulse](assets/pulse.svg) | **Pulse** | Service Health |
-| ![Ghost](assets/ghost.svg) | **Ghost** | Secret Scanner |
-| ![Gate](assets/gate.svg) | **Gate** | Firewall & Network |
-| ![Shadow](assets/shadow.svg) | **Shadow** | File Integrity |
-| ![Fang](assets/fang.svg) | **Fang** | Intrusion Detection |
-| ![Mirror](assets/mirror.svg) | **Mirror** | PII Scanner |
-| ![Vault](assets/vault.svg) | **Vault** | Backup Verification |
-| ![Net](assets/net.svg) | **Net** | Network Monitor |
-| ![Shield](assets/shield.svg) | **Shield** | Intrusion Prevention |
+| <img src="assets/meek-portrait.png" width="60"/> | **meek** | the overseer |
+| <img src="assets/pulse-portrait.png" width="60"/> | **pulse** | service health |
+| <img src="assets/ghost-portrait.png" width="60"/> | **ghost** | secret scanner |
+| <img src="assets/gate-portrait.png" width="60"/> | **gate** | firewall & network |
+| <img src="assets/shadow-portrait.png" width="60"/> | **shadow** | file integrity |
+| <img src="assets/fang-portrait.png" width="60"/> | **fang** | intrusion detection |
+| <img src="assets/mirror-portrait.png" width="60"/> | **mirror** | pii scanner |
+| <img src="assets/vault-portrait.png" width="60"/> | **vault** | backup verification |
+| <img src="assets/net-portrait.png" width="60"/> | **net** | network monitor |
+| <img src="assets/shield-portrait.png" width="60"/> | **shield** | intrusion prevention |
 
 ## The Reflex Group
 
