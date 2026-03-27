@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/meek-portrait.png" width="280" alt="meek ai"/>
+<img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/meek.svg" alt="meek" width="200">
 
 # meek
 
@@ -24,16 +24,16 @@ Meek is the eldest child of **Halo AI** and **Echo**. He's quiet and protective 
 
 | | Agent | Role |
 |---|---|---|
-| <img src="assets/meek-portrait.png" width="60"/> | **meek** | the overseer |
-| <img src="assets/pulse-portrait.png" width="60"/> | **pulse** | service health |
-| <img src="assets/ghost-portrait.png" width="60"/> | **ghost** | secret scanner |
-| <img src="assets/gate-portrait.png" width="60"/> | **gate** | firewall & network |
-| <img src="assets/shadow-portrait.png" width="60"/> | **shadow** | file integrity |
-| <img src="assets/fang-portrait.png" width="60"/> | **fang** | intrusion detection |
-| <img src="assets/mirror-portrait.png" width="60"/> | **mirror** | pii scanner |
-| <img src="assets/vault-portrait.png" width="60"/> | **vault** | backup verification |
-| <img src="assets/net-portrait.png" width="60"/> | **net** | network monitor |
-| <img src="assets/shield-portrait.png" width="60"/> | **shield** | intrusion prevention |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/meek.svg" width="60"> | **meek** | the overseer |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/pulse.svg" width="60"> | **pulse** | service health |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/ghost.svg" width="60"> | **ghost** | secret scanner |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/gate.svg" width="60"> | **gate** | firewall & network |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/shadow.svg" width="60"> | **shadow** | file integrity |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/fang.svg" width="60"> | **fang** | intrusion detection |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/mirror.svg" width="60"> | **mirror** | pii scanner |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/vault.svg" width="60"> | **vault** | backup verification |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/net.svg" width="60"> | **net** | network monitor |
+| <img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/shield.svg" width="60"> | **shield** | intrusion prevention |
 
 ## The Reflex Group
 
